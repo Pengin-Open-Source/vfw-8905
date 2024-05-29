@@ -1,9 +1,9 @@
-# pengin-pi 2
-PENGIN PI 2!
-Pengin Pi and Pengin Pi 2 is a copyright of Tobu Pengin, 2024.
+# VFW Post #8905
+This is the CRM system for proposing to the VFW Post #8905.  It is a fork of the Pengin-Pi-2 with additional ERP features for:
+- Proposals & Event Planning
+- Voting on Proposals
 
-Pengin Pi 2 is GPL3 licensed and is maintained and supported by Tobu Pengin and a hand picked community of interns and volunteers.  The software is designed, by default, to be a docker containerized CRM, Customer Relationship Manager, with a lightweight and easily extended back-end with the makings of a decent ERP system.  Think of this project as a cloud software variation of the Rasberry Pi hardware platform, utilitarian and customizable.  The core features are:
-
+Pengin-Pi-2 features:
 - Docker container
 - NGINX server
 - Django
